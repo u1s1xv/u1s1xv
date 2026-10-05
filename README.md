@@ -26,10 +26,6 @@
 - 🖥️ 在学 **Qt 客户端与音视频开发**（FFmpeg / RTSP）
 - 📌 正在找 **C++ 后端 / Qt 客户端 / 音视频** 方向的工作，随时可入职
 
-<sub>💡 更喜欢简洁的话，也可以用这一行版：</sub>
-
-<sub><code>C++ / Linux systems · Distributed training · Qt & audio-video | NPU CS · Open to work</code></sub>
-
 ---
 
 <!-- ═══════════════ 重点项目 ═══════════════ -->
